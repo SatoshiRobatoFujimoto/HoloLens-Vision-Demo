@@ -1,0 +1,1 @@
+## Unity + Microsoft Cognitive Services Computer Vision API DemoをHoloLensで利用するために修正したプロジェクト。
